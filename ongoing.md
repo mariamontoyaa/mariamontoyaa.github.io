@@ -43,7 +43,7 @@ order: 1
   </blockquote>
  </details>
 <br>
-![](images/villa_juarez_crop.png)
+![](images/wbl_childcare.jpeg)
 
 *[Blog post](https://www.revaluingcare.org/can-child-care-legislation-increase-womens-participation-in-the-paid-labor-force/) in the Care Talk Blog* 
 
@@ -57,7 +57,7 @@ order: 1
 
 ---
 
-**Moral Force: Leaders' Actions and Social Distancing(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"} and [Federico Daverio-Occhini].*
+**[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"} and [Federico Daverio-Occhini].*
 
 [*UNDP LAC Working Paper*](https://www-dev.undp.org/latin-america/publications/moral-force-leaders%E2%80%99-actions-and-social-distancing){:target="_blank"} 
 
