@@ -22,12 +22,16 @@ This study examines the impact of drug trafficking organizations on local employ
 
 ![](images/cocina.webp)
 
+
 ---
 
 **Growing Up Around Cartels: Salience of Criminal Careers and Youth's Education Choices in Mexico**
 
 ![](images/villa_juarez_crop.png)
 
+
+---
+**Violence at home; violence in school: drivers of school violence in schools in Bogotá** with [Oscar Díaz](https://sites.google.com/view/oscarmdiazb/inicio){:target="_blank"}.
 
 ---
 
