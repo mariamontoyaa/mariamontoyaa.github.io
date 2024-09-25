@@ -52,7 +52,7 @@ This study examines the impact of drug trafficking organizations on local employ
 ---
 
 **[Embracing modernity pays: Cadastre modernization effects on local property tax collection](documents/Draft_CAF.pdf)** with Emmanuel Chávez and Guillermo Woo-Mora.
-*Funded by [CAF Development Bank of Latin America and the Caribbean](https://www.caf.com/en/currently/calls/2023/09/call-for-research-proposals-subnational-capacities-and-decentralization-in-latin-america-and-the-caribbean/){:target="_blank"}. *
+*Funded by [CAF Development Bank of Latin America and the Caribbean](https://www.caf.com/en/currently/calls/2023/09/call-for-research-proposals-subnational-capacities-and-decentralization-in-latin-america-and-the-caribbean/){:target="_blank"}.*
 
 
 <details>
