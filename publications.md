@@ -5,12 +5,17 @@ filename: publications
 order: 2
 ---
 
-> Most of these are pre-PhD from my work at UNDP
 
-## Peer-reviewed journals
+## Academic journals
 
-**[Temporary Basic Income in Times of Pandemic: Rationale, Costs and Poverty-Mitigation Potential](https://www.degruyter.com/document/doi/10.1515/bis-2020-0029/html){:target="_blank"}** with George Gray Molina and Eduardo Ortiz-Juarez. 
 
+**[Filling the Gaps: Childcare Laws for Women’s Economic Empowerment](documents/WBL_Submitted.pdf)){:target="_blank"}** with S. Anukriti, Lelys Dinarte-Diaz and Alena Sakhonchik. 
+
+Conditionally accepted at *AEA Papers & Proceedings* 
+
+
+**[Temporary Basic Income in Times of Pandemic: Rationale, Costs and Poverty-Mitigation Potential](https://www.degruyter.com/document/doi/10.1515/bis-2020-0029/html){:target="_blank"}** with George Gray Molina and Eduardo Ortiz-Juarez.  
+**Pre-PhD**
 *Basic Income Studies* (open access)
 
 ---

@@ -7,9 +7,16 @@ order: 1
 
 
 # PhD dissertation 
+---
+
+**Drug Lords in STEM: the shift to synthetic drugs and structural change in Mexico**
+Driven by the opioid epidemic, demand for illegal synthetic drugs in the United States has increase, transforming drug production in Mexico. This study examines the transition from natural illicit drugs to synthetic alternatives and investigates how the resulting shift in labor demand affects the human capital of young individuals in high-exposure regions.
+![](images/cocina.webp)
+
+
 
 ---
-**Drug-led development? Illegal firms and local employment in Mexico** 
+**Drug-led development? Organized crime and local employment in Mexico** 
 This study examines the impact of drug trafficking organizations on local employment structures in Mexican municipalities and commuting zones from 1990 to 2020. Using data from the Population and Economic Censuses, along with datasets on cartel presence identified from web content, I construct a panel of municipalities and economic sectors. The identification strategy employs difference-in-difference and synthetic control methods to assess the effects of drug trafficking organizations on employment by sector and occupation. Additionally, I estimate the extent to which these effects are driven by shifts in the legal sector versus increased labor demand in the illegal drug sector.
 
 ![](images/zatarain_las_rastreadoras.jpeg)
@@ -18,12 +25,6 @@ This study examines the impact of drug trafficking organizations on local employ
 
 ---
 
-**Drug Lords in STEM: the shift to synthetic drugs and structural change in Mexico**
-
-![](images/cocina.webp)
-
-
----
 
 **Growing Up Around Cartels: Salience of Criminal Careers and Youth's Education Choices in Mexico**
 
@@ -40,7 +41,7 @@ This study examines the impact of drug trafficking organizations on local employ
 
 ---
 
-**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](documents/MoralForce_202409.pdf){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"}, Maximo Ponce de León and Federico Daverio-Occhini.*
+**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://www.parisschoolofeconomics.eu/en/publications-hal/moral-force-leaders-actions-and-public-health-compliance-in-crisis/){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"}, Maximo Ponce de León and Federico Daverio-Occhini.*
 <details>
   <summary> Abstract </summary> 
   <br>
@@ -71,29 +72,11 @@ This study examines the impact of drug trafficking organizations on local employ
 *[Working paper](documents/Draft_CAF.pdf)*
 
 
----
-
-**[Filling the Gaps: Childcare Laws for Women’s Economic Empowerment](https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-10492)** With [S Anukriti](https://sites.google.com/view/s-anukriti/home){:target="_blank"} , [Lelys Dinarte-Diaz](https://sites.google.com/view/lelys-dinarte/home){:target="_blank"} , Marina Elefante and Alena Sakhonchik. 
-
-<details>
-  <summary> Abstract </summary> 
-  <br>
-  <blockquote>
-    This paper aims to provide global evidence on whether and what attributes of laws governing the provision of childcare services affect women's labor market outcomes. It merges country-year-level data from the World Bank's Women, Business and the Law database, which documents childcare laws across countries, with data on women's labor force participation from ILOSTAT. Using a difference-in-difference estimation framework, the analysis finds that the enactment of childcare laws increases women's labor force participation by 2 percent, on average. Moreover, the effect increases over time, reaching up to 4 percent five years after an enactment. This effect is driven by women who are married, have completed less than primary education, and are between the ages of 35 and 44. Lastly, regulation of the availability and affordability of childcare has a similar impact on female labor force participation, whereas the effect of quality regulation is smaller.
-  </blockquote>
- </details>
-<br>
-![](images/wbl_childcare.jpeg)
-
-*[Blog post](https://www.revaluingcare.org/can-child-care-legislation-increase-womens-participation-in-the-paid-labor-force/) in the Care Talk Blog* 
-
-*[Blog post](https://blogs.worldbank.org/impactevaluations/childcare-regulation-and-womens-participation-labor-force) in the World Bank Development Impact Blog*
-
 
 ---
 
 **[Mitigating Poverty: Global Estimates of the Impact of Income Support during the Pandemic]([documents/Draft_CAF.pdf](https://www.undp.org/sites/g/files/zskgke326/files/2021-07/UNDP-DFS-Mitigating-Poverty-Global-Estimates-of-the-Impact-of-Income-Support-during-the-Pandemic-EN.pdf))** With Johanna Fajardo-Gonzalez, George Gray Molina, and Eduardo Ortiz-Juarez.
-
+**Pre-PhD**
 <details>
   <summary> Abstract </summary> 
   <br>
