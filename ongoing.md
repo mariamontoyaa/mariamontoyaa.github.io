@@ -9,7 +9,7 @@ order: 1
 # PhD dissertation 
 ---
 
-**Drug Lords in STEM: the shift to synthetic drugs and structural change in Mexico**
+**Drug Lords in STEM**
 
 <details>
   <summary> Short abstract </summary> 
