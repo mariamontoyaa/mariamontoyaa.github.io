@@ -10,14 +10,34 @@ order: 1
 ---
 
 **Drug Lords in STEM: the shift to synthetic drugs and structural change in Mexico**
-Driven by the opioid epidemic, demand for illegal synthetic drugs in the United States has increase, transforming drug production in Mexico. This study examines the transition from natural illicit drugs to synthetic alternatives and investigates how the resulting shift in labor demand affects the human capital of young individuals in high-exposure regions.
+
+<details>
+  <summary> Short abstract </summary> 
+  <br>
+  <blockquote>
+Driven by the opioid epidemic, demand for illegal synthetic drugs in the United States has increased, transforming drug production in Mexico. This paper examines the transition from natural illicit drugs to synthetic alternatives and investigates how the resulting shift in labor demand affects the human capital of young individuals in high-exposure regions.
+  </blockquote>
+ </details>
+<br>
+
+
 ![](images/cocina.webp)
 
 
 
 ---
 **Drug-led development? Organized crime and local employment in Mexico** 
-This study examines the impact of drug trafficking organizations on local employment structures in Mexican municipalities and commuting zones from 1990 to 2020. Using data from the Population and Economic Censuses, along with datasets on cartel presence identified from web content, I construct a panel of municipalities and economic sectors. The identification strategy employs difference-in-difference and synthetic control methods to assess the effects of drug trafficking organizations on employment by sector and occupation. Additionally, I estimate the extent to which these effects are driven by shifts in the legal sector versus increased labor demand in the illegal drug sector.
+
+<details>
+  <summary> Short abstract </summary> 
+  <br>
+  <blockquote>
+This paper looks at the impact of drug trafficking organizations on local employment structures in Mexican municipalities and commuting zones from 1990 to 2020. Using data from the Population and Economic Censuses, along with datasets on cartel presence identified from web content, I construct a panel of municipalities and economic sectors. The identification strategy employs difference-in-difference and synthetic control methods to assess the effects of drug trafficking organizations on employment by sector and occupation. Additionally, I estimate the extent to which these effects are driven by shifts in the legal sector versus increased labor demand in the illegal drug sector.
+  </blockquote>
+ </details>
+<br>
+
+
 
 ![](images/zatarain_las_rastreadoras.jpeg)
 
@@ -42,6 +62,7 @@ This study examines the impact of drug trafficking organizations on local employ
 ---
 
 **[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://www.parisschoolofeconomics.eu/en/publications-hal/moral-force-leaders-actions-and-public-health-compliance-in-crisis/){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"}, Maximo Ponce de León and Federico Daverio-Occhini.*
+
 <details>
   <summary> Abstract </summary> 
   <br>
