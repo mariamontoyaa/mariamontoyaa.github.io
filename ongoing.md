@@ -6,16 +6,16 @@ order: 1
 ---
 
 
-# PhD dissertation 
+# Working Papers 
 ---
 
-**Drug Lords in STEM**
+**Drug Lords in STEM** · *Job Market Paper*
 
 <details>
-  <summary> Short abstract </summary> 
+  <summary> Abstract </summary> 
   <br>
   <blockquote>
-Driven by the opioid epidemic, demand for illegal synthetic drugs in the United States has increased, transforming drug production in Mexico. This paper examines the transition from natural illicit drugs to synthetic alternatives and investigates how the resulting shift in labor demand affects the human capital of young individuals in high-exposure regions.
+A long-standing view in economics holds that education protects against criminal involvement by improving legal labor market opportunities. But what happens when education becomes a qualification for illegal employment? I study how skill-biased technical change in illegal labor markets affects human capital investment, exploiting the synthetic drug production boom in Mexico, which created criminal demand for workers with chemistry skills. Using China's April 2019 fentanyl ban as a shock that accelerated Mexican domestic production, I compare educational outcomes in commuting zones with pre-existing synthetic drug infrastructure to those without. Water quality monitoring confirms that exposed areas exhibit the chemical signature of drug production synthesis in the following years. Exposure to synthetic drug production reduces middle school dropout by 21\% and high school dropout by 8\%, increases time spent studying, and raises tertiary enrollment in chemistry-intensive STEM programs by 6\%, with no effect on other fields. These findings demonstrate that when illegal markets demand skilled labor, criminal opportunities boost human capital investment towards skills specific to illegal production.
   </blockquote>
  </details>
 <br>
@@ -46,28 +46,13 @@ This paper looks at the impact of drug trafficking organizations on local employ
 ---
 
 
-**Growing Up Around Cartels: Salience of Criminal Careers and Youth's Education Choices in Mexico**
-
-![](images/villa_juarez_crop.png)
-
-
----
-**Violence at home; violence in school: drivers of school violence in schools in Bogotá** with [Oscar Díaz](https://sites.google.com/view/oscarmdiazb/inicio){:target="_blank"}.
-
----
-
-
-# Other projects 
-
----
-
-**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://www.parisschoolofeconomics.eu/en/publications-hal/moral-force-leaders-actions-and-public-health-compliance-in-crisis/){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"}, Maximo Ponce de León and Federico Daverio-Occhini.*
+**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  *with [L. Guillermo Woo-Mora](woomora.github.io){:target="_blank"}  and Federico Daverio-Occhini.* **Submitted** 
 
 <details>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
-    Charismatic leaders shape public sentiment and moral direction but can weaken institutions by prioritizing personal appeal over trust in government. During the COVID-19 pandemic, the Mexican president disregarded his administration’s stay-at-home guidelines. We analyze the impact of his actions on social distancing compliance using granular mobility and electoral data. A dynamic difference-in-difference design reveals increased mobility in pro-president areas, leading to 22% more COVID-19 cases and 30% more deaths. Our findings suggest the president’s example, rather than partisan differences, drove these effects, highlighting the critical need for leaders to align personal conduct with public policy.
+    How does partisanship shape compliance with public health guidance and related health outcomes? During Mexico’s COVID-19 campaign, the president publicly undermined distancing measures even as his administration promoted them. Using precinct-level mobility data and a novel shift–share IV application, we show that support for the president’s party increased mobility within municipalities. We confirm these patterns across municipalities, where greater partisan support predicts higher infections and deaths. A calibrated epidemiological model attributes most of the infection gap to partisan behavior. The evidence supports a leader-driven mechanism in which elite cues, rather than fixed partisan traits, shape compliance during crises.
   </blockquote>
  </details>
 <br>
@@ -78,6 +63,10 @@ This paper looks at the impact of drug trafficking organizations on local employ
 ---
 
 **[Embracing modernity pays: Cadastre modernization effects on local property tax collection](documents/Draft_CAF.pdf)** with Emmanuel Chávez and Guillermo Woo-Mora.
+
+
+*Honorable Mention at the Premio Banamex de Economía 2024* 
+
 *Funded by [CAF Development Bank of Latin America and the Caribbean](https://www.caf.com/en/currently/calls/2023/09/call-for-research-proposals-subnational-capacities-and-decentralization-in-latin-america-and-the-caribbean/){:target="_blank"}.*
 
 
@@ -96,7 +85,30 @@ This paper looks at the impact of drug trafficking organizations on local employ
 
 ---
 
-**[Mitigating Poverty: Global Estimates of the Impact of Income Support during the Pandemic]([documents/Draft_CAF.pdf](https://www.undp.org/sites/g/files/zskgke326/files/2021-07/UNDP-DFS-Mitigating-Poverty-Global-Estimates-of-the-Impact-of-Income-Support-during-the-Pandemic-EN.pdf))** With Johanna Fajardo-Gonzalez, George Gray Molina, and Eduardo Ortiz-Juarez.
+
+# Work in progress
+**From Labs to Rivers: Environmental and Health Consequences of Mexico’s Fentanyl Boom** with Sandra Aguilar-Gómez
+
+
+**Algorithmic Gender Gaps: How TikTok Shapes Gender Norms Among Adolescents in El Salvador** with Lelys Dinarte-Diaz
+
+
+**Evaluating Demand- and Supply-Side Interventions Against Organized Crime Recruitment in Peru** with Natalia Guerrero-Trinidad and Maria Micaela Sviatschi
+
+
+**DICE-MX: A Georeferenced Event-Level Dataset of Drug Interdiction and Criminal Events in Mexico** 
+
+
+---
+
+
+
+# Resting papers
+
+
+---
+
+**[Mitigating Poverty: Global Estimates of the Impact of Income Support during the Pandemic](https://www.undp.org/sites/g/files/zskgke326/files/2021-07/UNDP-DFS-Mitigating-Poverty-Global-Estimates-of-the-Impact-of-Income-Support-during-the-Pandemic-EN.pdf)** with Johanna Fajardo-Gonzalez, George Gray Molina, and Eduardo Ortiz-Juarez.
 **Pre-PhD**
 <details>
   <summary> Abstract </summary> 
