@@ -57,7 +57,6 @@ This paper looks at the impact of drug trafficking organizations on local employ
  </details>
 <br>
 
-*[Working paper](documents/MoralForce_202409.pdf)*
 
 
 ---
@@ -66,9 +65,6 @@ This paper looks at the impact of drug trafficking organizations on local employ
 
 
 *Honorable Mention at the Premio Banamex de Economía 2024* 
-
-*Funded by [CAF Development Bank of Latin America and the Caribbean](https://www.caf.com/en/currently/calls/2023/09/call-for-research-proposals-subnational-capacities-and-decentralization-in-latin-america-and-the-caribbean/){:target="_blank"}.*
-
 
 <details>
   <summary> Abstract </summary> 
@@ -87,19 +83,18 @@ This paper looks at the impact of drug trafficking organizations on local employ
 
 
 # Work in progress
+**Evaluating Demand- and Supply-Side Interventions Against Organized Crime Recruitment in Peru** with Natalia Guerrero-Trinidad and Maria Micaela Sviatschi
+
+
 **From Labs to Rivers: Environmental and Health Consequences of Mexico’s Fentanyl Boom** with Sandra Aguilar-Gómez
 
 
 **Algorithmic Gender Gaps: How TikTok Shapes Gender Norms Among Adolescents in El Salvador** with Lelys Dinarte-Diaz
 
 
-**Evaluating Demand- and Supply-Side Interventions Against Organized Crime Recruitment in Peru** with Natalia Guerrero-Trinidad and Maria Micaela Sviatschi
-
-
 **DICE-MX: A Georeferenced Event-Level Dataset of Drug Interdiction and Criminal Events in Mexico** 
 
 
----
 
 
 
