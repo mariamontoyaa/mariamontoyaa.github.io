@@ -16,3 +16,6 @@ I previously served as an Economic Analyst at the [United Nations Development Pr
 
 
 **I'm on the economics academic job market 2026-2027**
+
+You can find my [CV here](documents/MontoyaAguirre_CV.pdf){:target="_blank"}.
+
