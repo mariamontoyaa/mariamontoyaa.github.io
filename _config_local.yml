@@ -1,0 +1,10 @@
+# Local preview overrides (GitHub Pages ignores this file).
+# Run: bundle exec jekyll serve --config _config.yml,_config_local.yml
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - _config_local.yml

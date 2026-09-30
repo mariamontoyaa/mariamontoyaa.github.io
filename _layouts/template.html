@@ -76,6 +76,47 @@
       .active {
         text-decoration: underline;
       }
+      .award {
+        font-size: 13px;
+        line-height: 1.6;
+        color: #222;
+        margin-top: 4px;
+      }
+      .status {
+        font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+        font-size: 11px;
+        letter-spacing: .06em;
+        text-transform: uppercase;
+        color: #888;
+        margin: -16px 0 18px;
+      }
+      .credit {
+        font-size: 10px;
+        color: #999;
+        margin-top: -14px;
+      }
+      .credit a {
+        color: inherit;
+      }
+      details {
+        margin: -12px 0 16px;
+      }
+      details summary {
+        cursor: pointer;
+        margin-bottom: 6px;
+        list-style: none;
+      }
+      details summary::-webkit-details-marker {
+        display: none;
+      }
+      details summary::before {
+        content: "+";
+        display: inline-block;
+        width: 1em;
+      }
+      details[open] summary::before {
+        content: "−";
+      }
     </style>
 
    </section>  
