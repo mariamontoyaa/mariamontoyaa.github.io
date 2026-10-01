@@ -54,7 +54,7 @@ Education is widely viewed as a protective factor against criminal involvement b
 *Baseline data collected*
 {: .status}
 
-*<u>Grants:</u> IPA Citizen Security Research Initiative (co-PI)*
+*<u>Grants:</u> IPA Citizen Security Research Initiative (co-PI)*; *<u>Partners:</u> IPA Peru, Dirección Regional de Educación Lima Metropolitana* 
 {: .award}
 
 
@@ -72,6 +72,9 @@ Preventing criminal recruitment of young people is crucial to weaken organized c
 *Data collection ongoing*
 {: .status}
 
+*<u>Partner:</u> National Police of Ecuador* 
+{: .award}
+
 <details>
   <summary> Description:</summary> 
   <blockquote>
@@ -86,6 +89,9 @@ Drug consumption is rising in transit countries in Latin America, but little is 
 *Baseline data collection ongoing*
 {: .status}
 
+*<u>Partners:</u> Inter-American Development Bank, Ministry of the Interior of Ecuador* 
+{: .award}
+
 <details>
   <summary> Description:</summary> 
   <blockquote>
@@ -97,8 +103,9 @@ Schools have strategic value for criminal organizations as recruitment sites, bu
 
 **DICE-MX: Drug Interdiction and Criminal Enforcement in Mexico**
 
-*<u>Grants:</u>  IPA Citizen Security Research Initiative (PI)*
+*<u>Grants:</u>  IPA Citizen Security Research Initiative (PI)*; *<u>Partners:</u> IPA Mexico* 
 {: .award}
+
 
 <details>
   <summary> Description:</summary> 

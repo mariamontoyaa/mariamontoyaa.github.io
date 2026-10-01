@@ -15,7 +15,7 @@ My research focuses on development economics, at the intersection of labor and c
 I previously served as an Economic Analyst at the [United Nations Development Programme](https://www.undp.org/){:target="_blank"} (UNDP), where I contributed to reports on social protection challenges resulting from the COVID-19 pandemic and the war in Ukraine. I also worked as a Research Assistant at the World Bank Development Research Group. I was born and raised in Sinaloa, Mexico. 
 
 
-**I'm on the economics academic job market 2026-2027**
+**I'm on the academic job market 2026-2027**
 
 You can find my [CV here](documents/MontoyaAguirre_CV.pdf){:target="_blank"}.
 
