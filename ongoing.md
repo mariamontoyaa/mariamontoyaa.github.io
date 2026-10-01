@@ -27,13 +27,14 @@ order: 1
 
 ![](images/cocina.webp)
 
+[Image credit: El Universal](https://www.eluniversal.com.mx/nacion/fentanilo-viaje-a-una-cocina-del-cartel-de-sinaloa/){:target="_blank"}
+{: .credit}
+
 
 <blockquote>
 Education is widely viewed as a protective factor against criminal involvement because it improves legal labor-market opportunities. But what happens when illegal markets demand skilled labor? I study how a boom in chemistry-intensive illegal drug production reshaped human capital investment in Mexico. China's 2019 ban on fentanyl pushed its synthesis into clandestine Mexican laboratories, expanding synthetic drug production and the demand for chemistry skills. Using a difference-in-differences design, I compare commuting zones with pre-existing synthetic-drug infrastructure to those without before and after the ban. Water-quality monitoring data confirm that exposed areas exhibit the byproducts of drug synthesis. Exposure reduces school dropout, increases time spent studying, and raises the share of students who start the final year of high school. Tertiary enrollment in chemistry-related STEM programs also rises, with no change in other fields, confirming a skill-specific shock rather than an income effect. The demand for chemistry skills spills over to the legal sector: exposure increases the wage premium on chemistry-related degrees and employment in chemistry occupations. Meanwhile, older credentialed chemists disappear from the data, consistent with entry into concealed production.
 </blockquote>
 <br>
-
-
 
 
 
