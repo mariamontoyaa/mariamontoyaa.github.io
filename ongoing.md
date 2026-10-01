@@ -67,7 +67,7 @@ Preventing criminal recruitment of young people is crucial to weaken organized c
 
 ---
 
-**Exporters into Retailers: Foreign Interdiction and the Formation of Drug Markets around Schools** with [Natalia Guerrero-Trinidad][guerrero] and [Micaela Sviatschi][sviatschi]
+**Exporters into Retailers: Foreign Interdiction and the Formation of Drug Markets around Schools** with [Natalia Guerrero-Trinidad][guerrero] 
 
 *Data collection ongoing*
 {: .status}
