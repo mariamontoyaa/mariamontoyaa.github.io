@@ -21,7 +21,7 @@ order: 1
 ---
 
 **Drug Lords in STEM**  
-*<u>Awards:</u> EEA Young Economist Award;  Horowitz Foundation Dissertation Award*
+*<u>Awards:</u> [EEA Young Economist Award](https://eeassoc.org/awards/young-economist-award){:target="_blank"}; [Horowitz Foundation Dissertation Award](https://www.horowitz-foundation.org/){:target="_blank"}*
 {: .award}
 
 
