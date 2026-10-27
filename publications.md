@@ -6,6 +6,9 @@ order: 2
 ---
 
 
+I previously served as an Economic Analyst at the [United Nations Development Programme](https://www.undp.org/){:target="_blank"} (UNDP), where I contributed to reports on social protection challenges resulting from the COVID-19 pandemic and the war in Ukraine. I also worked as a Research Assistant at the World Bank Development Research Group. You can find some of the papers and reports I produced at UNDP below: 
+
+
 ## Papers
 
 
