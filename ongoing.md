@@ -6,21 +6,20 @@ order: 1
 ---
 
 <!-- Coauthor websites: replace each # with the link. Use in text as [Name][key] -->
-[anukriti]: #
-[dinarte]: #
-[sakhonchik]: #
-[guerrero]: #
-[sviatschi]: #
-[aguilar]: #
+[anukriti]: https://anukritisiddharth.github.io/sanukriti/index.html
+[dinarte]: https://sites.google.com/view/lelys-dinarte/home
+[sakhonchik]: https://www.worldbank.org/en/about/people/a/alena-sakhonchik
+[guerrero]: https://sites.google.com/umn.edu/nataliaguerrerotrinidad
+[sviatschi]: https://www.micaelasviatschi.com/
+[aguilar]: https://sandraaguilargomez.com/
 [woomora]: https://woomora.github.io
-[daverio]: #
-[chavez]: #
+[chavez]: https://emmanuelchavez.weebly.com/
 
 
 # Job Market Paper
 ---
 
-**Drug Lords in STEM**  
+**[Drug Lords in STEM](documents/MontoyaAguirre_JMP.pdf){:target="_blank"}**  
 *<u>Awards:</u> [EEA Young Economist Award](https://eeassoc.org/awards/young-economist-award){:target="_blank"}; [Horowitz Foundation Dissertation Award](https://www.horowitz-foundation.org/){:target="_blank"};  [Xirau Icaza Economics Prize](https://premioxiraueconomia.colmex.mx/){:target="_blank"}*
 {: .award}
 
@@ -144,7 +143,7 @@ What happens to a local economy when organized crime arrives? Organized crime ca
 
 
 
-**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  with [L. Guillermo Woo-Mora][woomora]  and [Federico Daverio-Occhini][daverio].
+**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  with [L. Guillermo Woo-Mora][woomora]  and Federico Daverio-Occhini.
 
 
  
